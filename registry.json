@@ -1,0 +1,20 @@
+{
+    "schema_version": 1,
+    "plugins": [
+      {
+        "id": "access-guard",
+        "name": "Access Guard",
+        "description": "Downstream API key policy plugin for CLIProxyAPI",
+        "author": "berry-shake",
+        "version": "0.4.4-fork.6",
+        "repository": "https://github.com/berry-shake/cpa-access-guard-plugin",
+        "homepage": "https://github.com/berry-shake/cpa-access-guard-plugin",
+        "license": "MIT",
+        "tags": [
+          "Management",
+          "Auth",
+          "Scheduler"
+        ]
+      }
+    ]
+  }
